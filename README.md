@@ -1,6 +1,9 @@
 ## Torque Wrench FEM Report
 [Click here to open the Torque Wrench FEM report](assets/BaselineFEMAnalysisReport.pdf)
 
+## Improved Torque Wrench FEM Report
+[Click here to open the Torque Wrench FEM report](assets/ImprovedDesignFEM.pdf)
+
 ## 3260 Suspension Report
 [Click here to open the Torque Wrench FEM report](assets/MAE3260FinalProject.pdf)
 

@@ -10,7 +10,7 @@ image:
 
 Analysis of internal convection through tubes and radiation heat transfer.
 
-[View Problem Set 3 PDF](/assets/hw3.pdf)
+[View Problem Set 3 PDF](/assets/CV.pdf)
 
 ## Reflection
 

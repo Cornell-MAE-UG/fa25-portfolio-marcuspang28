@@ -10,7 +10,7 @@ image:
 
 Analysis of internal convection through tubes and radiation heat transfer.
 
-[View Problem Set 3 PDF](/assets/hw3.pdf)
+[View Problem Set 3 PDF](https://cornell-mae-ug.github.io/fa25-portfolio-marcuspang28/assets/hw3.pdf)
 
 ## Reflection
 
